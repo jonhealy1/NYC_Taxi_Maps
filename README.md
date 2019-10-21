@@ -1,15 +1,19 @@
 # NYC_Taxi_Maps
 These are some maps that I made with NYC taxi data.
 
-![IPYLeaflet_zones (still image)](https://github.com/noonespecial009/NYC_Taxi_Maps/blob/master/Notebook/IPYLeaflet_zones.png)
+![IPYLeaflet_zones (still image)](https://j.gifs.com/WLoEO4.gif)
 <!-- Format: ![Alt Text](url) -->
 
-![Heatmap Over Time (still image)](https://github.com/noonespecial009/NYC_Taxi_Maps/blob/master/Notebook/Heatmap_basic.png)
+
+![IPYLeaflet_zones (still image)](https://github.com/noonespecial009/NYC_Taxi_Maps/blob/master/Notebook/screenshots/IPYLeaflet_zones.png)
 <!-- Format: ![Alt Text](url) -->
 
-![Heatmap Over Time (still image)](https://github.com/noonespecial009/NYC_Taxi_Maps/blob/master/Notebook/Heatmap_zones.png)
+![Heatmap Over Time (still image)](https://github.com/noonespecial009/NYC_Taxi_Maps/blob/master/Notebook/screenshots/Heatmap_basic.png)
 <!-- Format: ![Alt Text](url) -->
 
-![Heatmap Over Time (still image)](https://github.com/noonespecial009/NYC_Taxi_Maps/blob/master/Notebook/Heatmap_time.png)
+![Heatmap Over Time (still image)](https://github.com/noonespecial009/NYC_Taxi_Maps/blob/master/Notebook/screenshots/Heatmap_zones.png)
+<!-- Format: ![Alt Text](url) -->
+
+![Heatmap Over Time (still image)](https://github.com/noonespecial009/NYC_Taxi_Maps/blob/master/Notebook/screenshots/Heatmap_time.png)
 <!-- Format: ![Alt Text](url) -->
 
