@@ -1,5 +1,5 @@
 # NYC_Taxi_Maps
-These are some maps that I made with NYC taxi data.
+These are some maps that I made with NYC taxi data. All of the maps except for the heat maps come from the 2018 yellow taxi dataset. This data was provided with our assignment. The heatmaps come from 2016 data that I found because it has pickup and dropoff longitude and latitude information unlike the 2018 data which only shows pickups and dropoffs by the taxi zone.   
 
 ![IPYLeaflet_zones (still image)](https://github.com/noonespecial009/NYC_Taxi_Maps/blob/master/Notebook/videos/taxi_nyc_0.2_60_11.gif)
 <!-- Format: ![Alt Text](url) -->
