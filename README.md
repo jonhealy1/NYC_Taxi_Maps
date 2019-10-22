@@ -43,5 +43,3 @@ with taxi zone added from GeoJSON
 
 <!-- Format: ![Alt Text](url) -->
 Heatmap video showing Taxi demand based on the latitude and longitude of each pickup location  
-
-![Heatmap Over Time (still image)](https://github.com/noonespecial009/NYC_Taxi_Maps/blob/master/HTML_maps/jon_heat_map_slides.html)
